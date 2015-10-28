@@ -1,14 +1,1 @@
 C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\bin\Debug\IAInterface.exe.config
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\bin\Debug\IAInterface.exe
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\bin\Debug\IAInterface.pdb
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\IAInterface.csprojResolveAssemblyReference.cache
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\MainWindow.g.cs
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\App.g.cs
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\IAInterface_MarkupCompile.cache
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\IAInterface_MarkupCompile.lref
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\MainWindow.baml
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\IAInterface.g.resources
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\IAInterface.Properties.Resources.resources
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\IAInterface.csproj.GenerateResource.Cache
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\IAInterface.exe
-C:\Users\Gilles\Source\Repos\IA_MultiAgent\IAMultiAgent\IAInterface\obj\Debug\IAInterface.pdb
