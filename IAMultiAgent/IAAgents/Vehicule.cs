@@ -20,7 +20,7 @@ namespace IAAgents
         float vMax;
         Direction dir;
         Position pos;
-        Vehicule vDevant;
+        Vehicule vDevant; 
         int a;
         bool arret;
 
